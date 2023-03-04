@@ -1,3 +1,8 @@
 *.env/
 *.zip
 .vscode/
+unit7/
+Pipfile
+Pipfile.lock
+logs
+runs
